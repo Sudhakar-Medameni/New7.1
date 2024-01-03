@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <statistics>
- <script name="Script_B">
+ <script name="Test2">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>1</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
@@ -8,7 +8,7 @@
   <LastRun>2024-01-03 10:29:38 +0530</LastRun>
   <TotalTimeOnSuccess>0.132000</TotalTimeOnSuccess>
  </script>
- <script name="Script_A">
+ <script name="Test">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>1</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>

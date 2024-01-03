@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running Script_A.script",
+				"identifier": "START",
+				"timestamp": "2024-01-03 10:28:18.623 +0530"
+			},
+		{
+				"handlerName": "on_script_a",
+				"timestamp": "2024-01-03 10:28:18.713 +0530",
+				"message": "Script_A.script",
+				"scriptName": "Script_A.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.106\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-01-03 10:28:18 +0530\", Successes:\"1\", TestCase:\"Script_A.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-01-03 10:28:18.744 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 Script_A.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-01-03 10:28:18.823 +0530"
+			}
+	],
+	"createdTimestamp": "2024-01-03 10:28:18.638 +0530"
+}

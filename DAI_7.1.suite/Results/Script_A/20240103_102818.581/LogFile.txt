@@ -1,0 +1,4 @@
+﻿2024-01-03 10:28:18.623 +0530	START		Running Script_A.script
+2024-01-03 10:28:18.713 +0530	Log		Script_A.script	1	on_script_a	Script_A.script
+2024-01-03 10:28:18.744 +0530	EndTestCase		(Duration:"0.106", Errors:"0", Exceptions:"0", StartTime:"2024-01-03 10:28:18 +0530", Successes:"1", TestCase:"Script_A.script", Warnings:"0")
+2024-01-03 10:28:18.823 +0530	SUCCESS		Execution Time 0:00:00 Script_A.script

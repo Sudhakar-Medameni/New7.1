@@ -1,0 +1,6 @@
+﻿
+scriptName1
+
+to handle scriptName1
+	log me.name
+end scriptName1

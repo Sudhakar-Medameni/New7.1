@@ -25,5 +25,7 @@ steps:
     serverURL: 'http://localhost:8000/'
     testConfig: 'ById'
     testConfigID: 'cb7c76eb-7068-4f3a-9c06-1458ea9d0317'
-    clientID: 'client:dai:api:integration:2ad3b4aa-4d81-4a81-b80d-379c87998dc9'
-    clientSecret: '9FWv1JFZGVBkyHNlTWdM7qdk29vvJ0Q1'
+    clientID: 'client:dai:api:integration:421237e3-6460-46a6-9a87-701038b2f4c7
+'
+    clientSecret: 'iveAflD1twcC8bWxAImy8Ls645bEOvSv
+'

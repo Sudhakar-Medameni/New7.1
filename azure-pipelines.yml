@@ -19,13 +19,12 @@ steps:
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
 
+
 - task: eggplant-runner@2
   inputs:
     daiVersion: '7.3.0-3'
     serverURL: 'http://localhost:8000/'
     testConfig: 'ById'
-    testConfigID: 'cb7c76eb-7068-4f3a-9c06-1458ea9d0317'
-    clientID: 'client:dai:api:integration:421237e3-6460-46a6-9a87-701038b2f4c7
-'
-    clientSecret: 'iveAflD1twcC8bWxAImy8Ls645bEOvSv
-'
+    testConfigID: 'a5bc708b-67cd-4f34-b8e7-9721ebe0fd72'
+    clientID: 'client:dai:api:integration:421237e3-6460-46a6-9a87-701038b2f4c7'
+    clientSecret: 'iveAflD1twcC8bWxAImy8Ls645bEOvSv'

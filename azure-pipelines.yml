@@ -24,6 +24,6 @@ steps:
     daiVersion: '7.3.0-3'
     serverURL: 'http://localhost:8000/'
     testConfig: 'ById'
-    testConfigID: '24cd5d60-9986-4cbd-b74d-07fef174ff73'
+    testConfigID: 'dfdee5ed-c5cd-4810-9b84-16a02c6ece56'
     clientID: 'client:dai:api:integration:421237e3-6460-46a6-9a87-701038b2f4c7'
     clientSecret: 'iveAflD1twcC8bWxAImy8Ls645bEOvSv'
